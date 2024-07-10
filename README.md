@@ -15,12 +15,12 @@
 </div>
 
 ```php
-Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil)
-a maior parte da minha experiência é voltada para projetos Frontend e Backend.
-Tenho 20 anos e tenho interesse em desenvolvimento web no geral.
-Pretendo seguir a área de segurança futuramente.
+#Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil)
+#a maior parte da minha experiência é voltada para projetos Frontend e Backend.
+#Tenho 20 anos e tenho interesse em desenvolvimento web no geral.
+#Pretendo seguir a área de segurança futuramente.
 
-Sinta-se a vontade!
+#Sinta-se a vontade!
 ```
 
 # Some Skills
