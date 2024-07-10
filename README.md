@@ -8,7 +8,7 @@
 
 <div align="right">
 
-<img width="10px" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png">
+<img width="50px" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png">
 </div>
 
 <div align = "left">
