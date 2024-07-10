@@ -8,6 +8,6 @@
 
 </div>
 
-| Languages | Skills |
+| Languages |
 |--|--|
-|   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> |  |
+|   <a href="https://www.php.net/"><img width="32px" alt="PHP" title="PHP" src="https://imgur.com/7sKVVgG"/></a> |  |
