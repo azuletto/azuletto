@@ -16,7 +16,7 @@
 
 ```
 Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil)
-a maior parte da minha experiênciaé voltada em projetos voltados para Frontend e Backend.
+a maior parte da minha experiência é voltada para projetos Frontend e Backend.
 Tenho 20 anos e tenho interesse em desenvolvimento web no geral.
 Pretendo seguir a área de segurança futuramente.
 Sinta-se a vontade!
