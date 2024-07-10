@@ -7,8 +7,8 @@
 </div>
 
 <div align="right">
- ## University
-<img src="https://uenp.edu.br/images/institucional/logo-uenp-m.png">
+
+<img widht="50px" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png">
 </div>
 
 <div align = "left">
