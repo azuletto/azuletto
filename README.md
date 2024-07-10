@@ -9,5 +9,5 @@
 </div>
 
 | Languages |
-|--|--|
+|--|
 |   <a href="https://www.php.net/"><img width="32px" alt="PHP" title="PHP" src="https://i.imgur.com/7sKVVgG.png"/></a> |  |
