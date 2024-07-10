@@ -4,7 +4,7 @@
 
 <div align = "center">
 <img src="https://img.shields.io/badge/EN-PT-green?style=flat">
-
+</div>
 
 <div align = "left">
 [![Static Badge](https://img.shields.io/badge/My_Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto)
