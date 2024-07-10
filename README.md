@@ -14,7 +14,10 @@
 [![Static Badge](https://img.shields.io/badge/My_Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto)
 </div>
 
-
+```
+Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil), a maior parte da minha experiência é voltada em projetos voltados para Frontend e Backend, tenho 20 anos e tenho interesse em desenvolvimento web no geral. Pretendo seguir a área de segurança futuramente.
+Sinta-se a vontade!
+```
 
 # Some Skills
 
