@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/EN-PT-green?style=flat">
 </div>
 
-<div align="center">
+<div align="left">
 
 <img width="50px" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png">
 </div>
