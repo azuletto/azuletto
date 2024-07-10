@@ -2,11 +2,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&center=true&random=true&width=435&lines=Andr%C3%A9+Oliveira+%7C" alt="Typing SVG" /></a> 
 </p>
 
-<img align="center" src="https://img.shields.io/badge/EN-PT-green?style=flat">
+<div align = "center">
+<img src="https://img.shields.io/badge/EN-PT-green?style=flat">
 
 
-<div align = left>
- 
+<div align = "left">
 [![Static Badge](https://img.shields.io/badge/My_Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto)
 
 </div>
