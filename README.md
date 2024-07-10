@@ -7,3 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/Meu_Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto)
 
 </div>
+
+| teste |  |
+|--|--|
+|  |  |
