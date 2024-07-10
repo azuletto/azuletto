@@ -10,4 +10,4 @@
 
 | Languages |
 |--|
-|   <a href="https://www.php.net/"><img width="50px" alt="PHP" title="PHP" src="https://i.imgur.com/7sKVVgG.png"/></a> |  |
+| <a href="https://www.php.net/"><img width="50px" alt="PHP" title="PHP" src="https://i.imgur.com/7sKVVgG.png"/></a> | <a href="https://www.php.net/"><img width="50px" alt="Java" title="Java" src="https://i.imgur.com/hTwRNlp.png"/></a> |
