@@ -23,6 +23,4 @@
 
 ## University
 
-<div align="left">
-<img href="https://uenp.edu.br/ciencia-da-computacao" width="50px" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png" >
-</div>
+ <a href="https://uenp.edu.br/ciencia-da-computacao"><img width="32px" alt="University" title="University" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png"/></a>
