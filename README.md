@@ -11,7 +11,7 @@
 <div align = "left">
 
 
-[![Static Badge](https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto) [![Static Badge](https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-oliveira-506969218/) [![Static Badge](https://img.shields.io/badge/Resume/Curriculum-gray?style=for-the-badge&logo=Google-Docs
+[![Static Badge](https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto) [![Static Badge](https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-oliveira-506969218/) [![Static Badge](https://img.shields.io/badge/Resume/Curriculum-gray?style=for-the-badge&logo=Google-Docs&logoColor=000000
 )](https://www.linkedin.com/in/andr%C3%A9-oliveira-506969218/)
 </div>
 
