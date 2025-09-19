@@ -8,6 +8,13 @@
 
 <br>
 
+<div align = "left">
+
+
+[![Static Badge](https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=X)](https://x.com/_azuletto) [![Static Badge](https://img.shields.io/badge/in-LINKEDIN-grey?style=for-the-badge)](https://www.linkedin.com/in/andr%C3%A9-oliveira-506969218/) [![Static Badge](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=Google-Docs&logoColor=FFFFFF
+)](https://drive.google.com/drive/folders/1Qd0VadpNGMMZz16NTFaZFOTXBD5lWOJr?usp=sharing)
+</div>
+
 ```
 💡
 Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil)
