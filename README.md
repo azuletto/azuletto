@@ -1,50 +1,95 @@
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
+</div>
+
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=true&width=435&lines=Andr%C3%A9+Oliveira+%7C" alt="Typing SVG" /></a> 
+  <a href="https://github.com/azuletto/"><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=azuletto.azuletto"></a>
 </p>
 
-<div align = "center"alt="English | Portuguese" title="English | Portuguese">
-<img src="https://img.shields.io/badge/EN-PT-green?style=flat">
+<table align="center">
+   <tr>
+    <td align="left">
+      <h3>Hi, I'm André Oliveira!</h3>
+      <img src="https://img.shields.io/badge/LANGUAGES-PT--EN--ES-f8efd4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages">
+      <br><br>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%2F+Full+Stack+Developer;Java+%7C+C%23+%7C+APIs;Security+Enthusiast;Always+learning+new+things;Feel+free+to+explore!&width=440&height=45&font=Fira%20Code&color=58a6ff"></a>
+     </td>
+    <td align="center">
+      <a href="https://github.com/azuletto/github-readme-stats-fast">
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=azuletto&theme=macos_light"/>
+      </a>
+     </td>
+   </tr>
+</table>
+
+---
+
+- 🎓 **B.Sc. in Computer Science** from State University of Northern Paraná (UENP)
+- ⚙️ Building **REST APIs** and web systems with a focus on **clean architecture** and **security**
+- 🛡️ Special interest in **authentication**, **access control**, and **security best practices**
+- 📚 Currently diving deeper into **application security** and **microservices**
+- 💡 Ask me about: **Java, C#, React, backend development, and API best practices**
+
+---
+
+## 🛠 Tech Stack
+
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 12px 16px; margin: 12px 0;">
+  <strong>⚙️ Backend</strong><br><br>
+ 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  
 </div>
 
-<br>
-
-<div align = "left">
-
-
-[![Static Badge](https://img.shields.io/badge/in-LINKEDIN-grey?style=for-the-badge)](https://www.linkedin.com/in/andr%C3%A9-oliveira-506969218/) [![Static Badge](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=Google-Docs&logoColor=FFFFFF
-)](https://drive.google.com/drive/folders/1Qd0VadpNGMMZz16NTFaZFOTXBD5lWOJr?usp=sharing)
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 12px 16px; margin: 12px 0;">
+  <strong>🗄️ Database</strong><br><br>
+ 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  
 </div>
 
-```
-💡
-Atualmente cursando Ciência da Computação pela Universidade estadual do Norte do Paraná (Brasil)
-a maior parte da minha experiência é voltada para projetos Frontend e Backend.
-Tenho 20 anos e tenho interesse em desenvolvimento web no geral.
-Pretendo seguir a área de segurança futuramente.
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 12px 16px; margin: 12px 0;">
+  <strong>🎨 Frontend</strong><br><br>
+ 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  
+</div>
 
-Sinta-se a vontade!
-```
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 12px 16px; margin: 12px 0;">
+  <strong>🛠️ Tools & DevOps</strong><br><br>
+ 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  
+</div>
 
-```
-💡
-Currently studying Computer Science at the State University of Northern Paraná (Brazil).
-Most of my experience is focused on Frontend and Backend projects.
-I am 20 years old and have a general interest in web development.
-I intend to pursue a career in security in the future.
+---
 
-Feel free to reach out!
-```
+### 🔗 &nbsp;Let's connect?
 
-# Some Skills
-
-| <a><img width="50px" alt="PHP" title="PHP" src="https://i.imgur.com/7sKVVgG.png"/></a> | <a><img width="50px" alt="JAVA" title="JAVA" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png"/></a> | <a><img width="50px" alt="JS" title="JS" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png"/></a> | <a><img width="50px" alt="SQL" title="MYSQL" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-20-1174940.png"/></a> | <a><img width="50px" alt="HTML" title="HTML" src="https://cdn.iconscout.com/icon/free/png-512/free-html-59-225995.png"/></a> | <a><img width="50px" alt="C" title="C" src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png"/></a>
-|--|--|--|--|--|--|
-
-#
 <div align="center">
-
-### University
-
- <a href="https://uenp.edu.br/ciencia-da-computacao"><img width="32px" alt="University" title="University" src="https://uenp.edu.br/images/institucional/logo-uenp-m.png"/></a>
-
+<a href="mailto:oliveira.andre.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/azuletto"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/azuletto"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
+
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
+
+<h6 align="center">👇🏻 Here are some Open Source projects I've been working on: 👇🏻</h6>
