@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/azuletto/"><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=azuletto.azuletto"></a>
+  <a href="https://github.com/azuletto/"><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=azuletto"></a>
 </p>
 
 <table align="center">
